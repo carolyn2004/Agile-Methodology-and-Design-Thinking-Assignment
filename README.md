@@ -1,6 +1,6 @@
 # Agile-Methodology-and-Design-Thinking-Assignment 🤝
   - The Agile methodology is a way to manage a project by breaking it up into several phases.
-  - This assignment tested my understanding of agile and scrum principles and execution of scrum processes.
+  - This assignment tested my understanding of agile and scrum principles and execution of scrum processes. It was my first time using the software Jira.
   - Attained A for this module. 
   - I was tasked to propose a website that would solve an issue currently occuring in Singapore. 
   - I decided to propose a web application that will recommend study areas to users for those people in Singapore that might not have a conducive environment to study at home. 
