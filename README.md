@@ -12,7 +12,7 @@
   - The high fidelity prototype shown in the report attached above is the final website I came up with on adobe XD across 5 seperate sprints.
 
  # Prototype ✏️
-  <p float="left">
+  <p style="margin-top:0" float="left">
   <img src="https://github.com/carolyn2004/Agile-Methodology-and-Design-Thinking-Assignment/assets/100062535/c8778ce1-29a1-4a37-bd0b-a79619c7465e" width="49%" />
   <img src="https://github.com/carolyn2004/Agile-Methodology-and-Design-Thinking-Assignment/assets/100062535/3eedad3b-41fb-4e83-bc18-5839b0fd62fd" width="49%" /> 
 </p>
