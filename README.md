@@ -14,8 +14,11 @@
  # Prototype ✏️
  ![image](https://github.com/carolyn2004/Agile-Methodology-and-Design-Thinking-Assignment/assets/100062535/c8778ce1-29a1-4a37-bd0b-a79619c7465e)
  ![image](https://github.com/carolyn2004/Agile-Methodology-and-Design-Thinking-Assignment/assets/100062535/3eedad3b-41fb-4e83-bc18-5839b0fd62fd)
- ![image](https://github.com/carolyn2004/Agile-Methodology-and-Design-Thinking-Assignment/assets/100062535/1b03ff29-6ab6-479b-9078-a5a61fbd4a23)
- ![image](https://github.com/carolyn2004/Agile-Methodology-and-Design-Thinking-Assignment/assets/100062535/96ede2cc-f14b-41fc-ae92-4ea4692ac6eb)
+
+ <p float="left">
+  <img src="https://github.com/carolyn2004/Agile-Methodology-and-Design-Thinking-Assignment/assets/100062535/1b03ff29-6ab6-479b-9078-a5a61fbd4a23" width="100" />
+  <img src="https://github.com/carolyn2004/Agile-Methodology-and-Design-Thinking-Assignment/assets/100062535/96ede2cc-f14b-41fc-ae92-4ea4692ac6eb" width="100" /> 
+</p>
  ![image](https://github.com/carolyn2004/Agile-Methodology-and-Design-Thinking-Assignment/assets/100062535/6da6a76f-e023-4bf8-91cc-d3fef797b785)
  ![image](https://github.com/carolyn2004/Agile-Methodology-and-Design-Thinking-Assignment/assets/100062535/aef5f246-abc7-4b52-8513-ce3a45c3c9e5)
 
