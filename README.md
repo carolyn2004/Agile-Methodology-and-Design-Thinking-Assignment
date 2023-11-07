@@ -12,20 +12,33 @@
   - The high fidelity prototype shown in the report attached above is the final website I came up with on adobe XD across 5 seperate sprints.
 
  # Prototype ✏️
-  <p style="margin-top:0" float="left">
-  <img src="https://github.com/carolyn2004/Agile-Methodology-and-Design-Thinking-Assignment/assets/100062535/c8778ce1-29a1-4a37-bd0b-a79619c7465e" width="49%" />
-  <img src="https://github.com/carolyn2004/Agile-Methodology-and-Design-Thinking-Assignment/assets/100062535/3eedad3b-41fb-4e83-bc18-5839b0fd62fd" width="49%" /> 
-</p>
+ <div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin-top: 0;">
+  <div style="flex: 0 0 49%;">
+    <img src="https://github.com/carolyn2004/Agile-Methodology-and-Design-Thinking-Assignment/assets/100062535/c8778ce1-29a1-4a37-bd0b-a79619c7465e" style="width: 100%;"/>
+  </div>
+  <div style="flex: 0 0 49%;">
+    <img src="https://github.com/carolyn2004/Agile-Methodology-and-Design-Thinking-Assignment/assets/100062535/3eedad3b-41fb-4e83-bc18-5839b0fd62fd" style="width: 100%;"/>
+  </div>
+</div>
 
-<p float="left">
-  <img src="https://github.com/carolyn2004/Agile-Methodology-and-Design-Thinking-Assignment/assets/100062535/6da6a76f-e023-4bf8-91cc-d3fef797b785" width="49%" />
-  <img src="https://github.com/carolyn2004/Agile-Methodology-and-Design-Thinking-Assignment/assets/100062535/aef5f246-abc7-4b52-8513-ce3a45c3c9e5" width="49%" /> 
-</p>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <div style="flex: 0 0 49%;">
+    <img src="https://github.com/carolyn2004/Agile-Methodology-and-Design-Thinking-Assignment/assets/100062535/6da6a76f-e023-4bf8-91cc-d3fef797b785" style="width: 100%;"/>
+  </div>
+  <div style="flex: 0 0 49%;">
+    <img src="https://github.com/carolyn2004/Agile-Methodology-and-Design-Thinking-Assignment/assets/100062535/aef5f246-abc7-4b52-8513-ce3a45c3c9e5" style="width: 100%;"/>
+  </div>
+</div>
 
- <p float="left">
-  <img src="https://github.com/carolyn2004/Agile-Methodology-and-Design-Thinking-Assignment/assets/100062535/1b03ff29-6ab6-479b-9078-a5a61fbd4a23" width="49%" />
-  <img src="https://github.com/carolyn2004/Agile-Methodology-and-Design-Thinking-Assignment/assets/100062535/96ede2cc-f14b-41fc-ae92-4ea4692ac6eb" width="49%" /> 
-</p>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <div style="flex: 0 0 49%;">
+    <img src="https://github.com/carolyn2004/Agile-Methodology-and-Design-Thinking-Assignment/assets/100062535/1b03ff29-6ab6-479b-9078-a5a61fbd4a23" style="width: 100%;"/>
+  </div>
+  <div style="flex: 0 0 49%;">
+    <img src="https://github.com/carolyn2004/Agile-Methodology-and-Design-Thinking-Assignment/assets/100062535/96ede2cc-f14b-41fc-ae92-4ea4692ac6eb" style="width: 100%;"/>
+  </div>
+</div>
+
  
 
 
