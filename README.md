@@ -18,8 +18,8 @@
  ![image](https://github.com/carolyn2004/Agile-Methodology-and-Design-Thinking-Assignment/assets/100062535/aef5f246-abc7-4b52-8513-ce3a45c3c9e5)
 
  <p float="left">
-  <img src="https://github.com/carolyn2004/Agile-Methodology-and-Design-Thinking-Assignment/assets/100062535/1b03ff29-6ab6-479b-9078-a5a61fbd4a23" width="30%" />
-  <img src="https://github.com/carolyn2004/Agile-Methodology-and-Design-Thinking-Assignment/assets/100062535/96ede2cc-f14b-41fc-ae92-4ea4692ac6eb" width="30%" /> 
+  <img src="https://github.com/carolyn2004/Agile-Methodology-and-Design-Thinking-Assignment/assets/100062535/1b03ff29-6ab6-479b-9078-a5a61fbd4a23" width="45%" />
+  <img src="https://github.com/carolyn2004/Agile-Methodology-and-Design-Thinking-Assignment/assets/100062535/96ede2cc-f14b-41fc-ae92-4ea4692ac6eb" width="45%" /> 
 </p>
  
 
