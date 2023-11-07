@@ -23,7 +23,7 @@
 </p>
 
  <p float="left">
-  <img src="https://github.com/carolyn2004/Agile-Methodology-and-Design-Thinking-Assignment/assets/100062535/1b03ff29-6ab6-479b-9078-a5a61fbd4a23" width="49%" />
+  <img style="margin-top:0" src="https://github.com/carolyn2004/Agile-Methodology-and-Design-Thinking-Assignment/assets/100062535/1b03ff29-6ab6-479b-9078-a5a61fbd4a23" width="49%" />
   <img src="https://github.com/carolyn2004/Agile-Methodology-and-Design-Thinking-Assignment/assets/100062535/96ede2cc-f14b-41fc-ae92-4ea4692ac6eb" width="49%" /> 
 </p>
  
